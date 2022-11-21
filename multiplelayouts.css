@@ -1,0 +1,44 @@
+.chriscard{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1669006946/pngtree-christmas-festive-banner-red-background-picture-image_759266_nrs140.png");
+    background-size: cover;
+    height:30vh;
+}
+.heading{
+color:#71de6b;
+font-size:bold;
+font-family: Arial, Helvetica, sans-serif;
+padding-top:60px;
+}
+.chriscardbottom{
+    background-color:lightgreen;
+    height: 80vh;
+}
+.imageres{
+    height:80px;
+    width:80px;
+}
+.christmascard{
+    background-color: white;
+    width:150px;
+    border-radius: 15px;
+    padding:5px;
+    height: 150px;
+    text-align: center;
+    margin:20px;
+}
+.chrisheading{
+    font-size:15px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.chrispara{
+ font-weight:bold ;
+}
+.christmascard:hover{
+    transform:scale(2);
+    cursor:grab;
+}
+.text-center:hover{
+    transform:scale(1.08);
+    cursor:grab;
+}
